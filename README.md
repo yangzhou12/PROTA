@@ -1,5 +1,5 @@
 # PROTA
-Matlab source codes for the Probabilistic Rank-One Tensor Analysis (PROTA) algorithm presented in the paper [Probabilistic Rank-One Tensor Analysis with Concurrent Regularization](https://ieeexplore.ieee.org/document/8718518).
+Matlab source codes of the Probabilistic Rank-One Tensor Analysis (PROTA) algorithm presented in the paper [Probabilistic Rank-One Tensor Analysis with Concurrent Regularization](https://ieeexplore.ieee.org/document/8718518).
 
 ## Usage
 Face recognition with PROTA on 2D images from the FERET dataset: 
