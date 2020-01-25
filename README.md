@@ -24,7 +24,7 @@ Demo_PROTA.m
 If you find our codes helpful, please consider cite the following [paper](https://ieeexplore.ieee.org/document/8718518):
 ```
 @article{
-    zhou2019prob,
+    zhou2019PROTA,
     title={Probabilistic Rank-One Tensor Analysis With Concurrent Regularizations},
     author={Yang Zhou and Haiping Lu and Yiu-ming Cheung},
     journal={IEEE Transactions on Cybernetics},
